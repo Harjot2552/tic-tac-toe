@@ -78,3 +78,15 @@ nav ul{
 .bb-0{
     border-bottom: 0;
 }
+
+#reset{
+    margin: 0 23px;
+    padding: 6px 20px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: plum;
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    border-radius: 6px;
+}
