@@ -68,9 +68,6 @@ A simple, interactive Tic Tac Toe game created using **HTML**, **CSS**, and **Ja
 
 ---
 
-## 💃 Demo
-
-![](game-preview.gif) *(Placeholder for demo GIF)*
 
 ---
 
